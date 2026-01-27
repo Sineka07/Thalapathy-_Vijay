@@ -1,3 +1,16 @@
+.gradient-color{
+    
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    background: linear-gradient(to right, #a855f7, #ec4899);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    line-height: 1.2;
+  }
+                
+            }
 body{
                 background-color: rgb(208, 208, 208);
             }
